@@ -7,7 +7,7 @@ import { Icon } from "@iconify/react";
 import newSteps from "./steps";
 import "shepherd.js/dist/css/shepherd.css";
 
-import tourlogo from "@/public/images/watermark/Ankit Fuktelogo1.png";
+import tourlogo from "@/public/images/watermark/codeshaperlogo1.png";
 import Image from "next/image";
 
 const tourOptions = {
