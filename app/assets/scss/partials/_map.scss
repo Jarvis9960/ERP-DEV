@@ -1,0 +1,46 @@
+.ERP DEV-codeVmapPrimary path {
+  @apply fill-primary;
+
+  .svg-map__location[aria-checked="true"] {
+    @apply fill-primary;
+  }
+}
+.ERP DEV-codeVmapWhite path {
+  @apply fill-default-200 dark:fill-slate-500;
+
+  .svg-map__location[aria-checked="true"] {
+    @apply fill-default-500 dark:fill-slate-200;
+  }
+}
+
+.ERP DEV-codeVmapInfo path {
+  @apply fill-info;
+
+  .svg-map__location[aria-checked="true"] {
+    @apply fill-info;
+  }
+}
+
+.ERP DEV-codeVmapWarning path {
+  @apply fill-warning;
+
+  .svg-map__location[aria-checked="true"] {
+    @apply fill-warning;
+  }
+}
+
+.ERP DEV-codeVmapSuccess path {
+  @apply fill-success;
+
+  .svg-map__location[aria-checked="true"] {
+    @apply fill-success;
+  }
+}
+
+.ERP DEV-codevmap path {
+  @apply fill-primary;
+
+  .svg-map__location[aria-checked="true"] {
+    @apply fill-primary;
+  }
+}
