@@ -17,7 +17,7 @@ import * as React from "react";
 import { Tailwind } from "@react-email/tailwind";
 import logo from "@/public/images/logo/logo-2.png"
 import logo2 from "@/public/images/logo/logo-1.png"
-import ERP DEV from "@/public/images/all-img/ERP DEV-screenshot.png"
+import dashtail from "@/public/images/all-img/dashtail-screenshot.png"
 import avatar from "@/public/images/avatar/avatar-3.jpg"
 import clock from "@/public/images/chart/clock.png"
 import blog1 from "@/public/images/all-img/email-blog-1.jpg"
@@ -36,7 +36,7 @@ const AdvancedTemplate = () => (
             <Column className="pt-6 pl-5 ">
               <Img
                 src={logo.src}
-                alt="ERP DEV"
+                alt="DashTail"
               />
             </Column>
             <Column className="flex justify-end pt-10 pr-5   ">
@@ -52,13 +52,13 @@ const AdvancedTemplate = () => (
             <Row>
               <Column className="pl-5 w-1/2">
                 <Text className="text-xl font-medium text-slate-800 mt-6">Welcome to</Text>
-                <Text className="text-xl  font-semibold text-slate-900 -mt-3">ERP DEV</Text>
+                <Text className="text-xl  font-semibold text-slate-900 -mt-3">DashTail</Text>
                 <Text className="text-sm text-slate-700">Dive into customization and thrive. Your journey starts now. </Text>
               </Column>
               <Column className="pr-5 w-1/2">
                 <Img
-                  src={ERP DEV.src}
-                  alt="ERP DEV"
+                  src={dashtail.src}
+                  alt="DashTail"
                   className="w-full h-full object-cover pl-6"
                 />
               </Column>

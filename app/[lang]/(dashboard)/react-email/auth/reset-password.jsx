@@ -15,7 +15,7 @@ import {
 import { Tailwind } from "@react-email/tailwind";
 import * as React from "react";
 
-import ERP DEVLogo from "@/public/images/logo/logo-2.png"
+import DashTailLogo from "@/public/images/logo/logo-2.png"
 export const ResetPassword = () => {
   return (
     <Html>
@@ -27,7 +27,7 @@ export const ResetPassword = () => {
             <Section>
               <Column className="pt-10 pl-10">
                 <Img
-                  src={ERP DEVLogo.src}
+                  src={DashTailLogo.src}
                   alt="Dropbox"
                   style={logo}
                 />
@@ -47,11 +47,11 @@ export const ResetPassword = () => {
               </Button>
               <Text className="mt-4 text-sm text-slate-900 px-10">
                 Thanks, <br />
-                The ERP DEV Team
+                The Dashtail Team
               </Text>
             </Section>
             <Text className="border border-gray-100 mx-10 mt-7"></Text>
-            <Text className="px-10 text-sm text-gray-900 mt-5">Sent with ❤️ from ERP DEV </Text>
+            <Text className="px-10 text-sm text-gray-900 mt-5">Sent with ❤️ from DashTail </Text>
             <Text className="px-10 text-sm text-gray-900 -mt-2">  New DOHS, Mohakhali,
               Dhaka - 1206, Bangladesh </Text>
             <Text className="px-10 text-sm text-gray-900 -mt-2">Thank You</Text>
