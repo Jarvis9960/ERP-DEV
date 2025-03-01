@@ -35,7 +35,7 @@ export const VerifyEmail = () => {
                   Verify your email address
                 </Text>
                 <Text className="text-sm  text-center my-0 text-slate-900">
-                  To get started with DashTail, we simply need <br /> to verify your email address.
+                  To get started with ERP DEV, we simply need <br /> to verify your email address.
                 </Text>
                 <Button className="bg-violet-600 mb-10 mt-8" style={button} href="/">
                   Click to Verify

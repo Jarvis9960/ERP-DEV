@@ -35,7 +35,7 @@ export const VerifyOtp = () => {
                   Verify your email address
                 </Text>
                 <Text className="text-sm  text-center my-0 text-slate-900">
-                  To get started with DashTail, we simply need <br /> to verify your email address.
+                  To get started with ERP DEV, we simply need <br /> to verify your email address.
                 </Text>
                 <Text className="text-base font-medium text-center text-slate-900">Verification Code</Text>
                 <Text className="text-3xl  font-bold text-center text-slate-900 my-0 ">987564</Text>
